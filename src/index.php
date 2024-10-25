@@ -10,7 +10,7 @@ ParseClient::initialize( "bFT03vSlALfl3fALPrVINeNNaFtb533TZZfqsAKQ", "3cR5Q94zvt
 ParseClient::setServerURL('https://parseapi.back4app.com', '/');
 
 $myCustomObject = new ParseObject("Agenda");
-$myCustomObject->set("clave", 604);
+$myCustomObject->set("clave", 704);
 $myCustomObject->set("nombre", "My B4App User");
 $myCustomObject->set("apellidos", "My B4App Apellidos");
 $myCustomObject->set("departamento", "Development 3");
